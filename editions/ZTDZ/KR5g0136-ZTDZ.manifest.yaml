@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5g0136/ZTDZ/v1
+canonical_location: https://kanripo.org/bkk/KR5g0136/ZTDZ/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 洞真太上三九素語玉精真訣
+  date: '2015-08-29 02:58:26.836362'
+  source:
+    repository: kanripo
+    path: KR5g0136
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+  edition:
+    short: ZTDZ
+    label: 【正統道藏・三家本】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5g0136_000-ZTDZ.yaml, hash: 'sha256:cfa8b29659f8e997f372164e24352498f6d72b075325f222b46acac9241be056'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5g0136_000-ZTDZ.markers.yaml, hash: 'sha256:7323206a4f26fef0d0bf31b8dc9c21f1bb8fcf284a4c3b731e4a513b674b0355'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5g0136_SJB_000-330497b
+    span:
+    - body
+    - 0
+    - 1180
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:a49753f4862bfc04315f5a913cc123542aa643a5dc7c9a965599f37cbd3864dc
